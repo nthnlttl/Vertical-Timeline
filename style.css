@@ -140,8 +140,8 @@ body {
 
   div.date {
       position: absolute;
-      top: 8px;
-      right: 16px;
+      top: 0px;
+      right: 0px;
       background-color: red;
       color: white;
       width: auto;
@@ -150,3 +150,5 @@ body {
       margin: 0px;
       z-index: 1;
   }
+
+  
